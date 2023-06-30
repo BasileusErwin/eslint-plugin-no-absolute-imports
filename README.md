@@ -5,7 +5,17 @@ you to verify and disallow absolute imports in your code.
 
 ## Installation
 
-WIP
+To use the `eslint-plugin-no-absolute-imports` plugin,
+you first need to make sure you have ESLint installed in your project.
+Then, you can install the plugin and its dependencies by running the following command:
+
+```bash
+npm install eslint eslint-plugin-no-absolute-imports
+
+# or
+
+yarn add eslint eslint-plugin-no-absolute-imports
+```
 
 ## Configuration
 
